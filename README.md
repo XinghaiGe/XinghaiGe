@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Xinghai Ge</h1>
 <h3 align="center">A passionate developer from China.</h3>
-
+<pre align="center" style="text-align: center; font-family: monospace;">
+________                  _____       
+__  ___/__   ________________(_)_____ 
+_____ \__ | / /  _ \_  __ \_  /_  __ \
+____/ /__ |/ //  __/  / / /  / / /_/ /
+/____/ _____/ \___//_/ /_//_/  \____/ 
+</pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinghaige&label=Profile%20views&color=0e75b6&style=flat" alt="xinghaige" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xinghaige" alt="xinghaige" /></a> </p>
@@ -27,13 +33,6 @@
 
 - ⚡ Fun fact **I am svenio.**
 - 
-<pre style="text-align: center; font-family: monospace;">
-________                  _____       
-__  ___/__   ________________(_)_____ 
-_____ \__ | / /  _ \_  __ \_  /_  __ \
-____/ /__ |/ //  __/  / / /  / / /_/ /
-/____/ _____/ \___//_/ /_//_/  \____/ 
-</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
