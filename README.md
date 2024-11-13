@@ -26,6 +26,14 @@
 - 📄 Know about my experiences [to be continued ...](to be continued ...)
 
 - ⚡ Fun fact **I am svenio.**
+- 
+<pre style="text-align: center; font-family: monospace;">
+________                  _____       
+__  ___/__   ________________(_)_____ 
+_____ \__ | / /  _ \_  __ \_  /_  __ \
+____/ /__ |/ //  __/  / / /  / / /_/ /
+/____/ _____/ \___//_/ /_//_/  \____/ 
+</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
