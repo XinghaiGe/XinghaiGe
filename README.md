@@ -31,7 +31,7 @@ ____/ /__ |/ //  __/  / / /  / / /_/ /
 
 - 📄 Know about my experiences [to be continued ...](to be continued ...)
 
-- ⚡ Fun fact **I am Svenio.**
+- ⚡ Fun fact **[RESUME](https://visiky.github.io/resume/?mode=edit&template=template1&user=xinghaige)**
 - 
 
 <h3 align="left">Connect with me:</h3>
