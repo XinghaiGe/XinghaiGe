@@ -1,0 +1,122 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/55051367?v=4",
+        "hidden": false,
+        "shape": "square"
+    },
+    "profile": {
+        "name": "葛兴海",
+        "email": "g18845381272@163.com",
+        "mobile": "18845381272",
+        "github": "https://github.com/xinghaige",
+        "zhihu": "",
+        "workExpYear": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2021.09.01",
+                "2025.06.30"
+            ],
+            "school": "中国民航大学",
+            "major": "计算机科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "英语 CET6（392）",
+            "award_time": "2024",
+            "dataIndex": 0
+        },
+        {
+            "award_info": "英语 CET4（453）",
+            "award_time": "2023",
+            "dataIndex": 1
+        },
+        {
+            "award_info": "省部级 - 第十五届蓝桥杯全国软件和信息技术专业人才大赛天津赛区C/C++程序设计大学B组三等奖",
+            "award_time": "2024.02.29",
+            "dataIndex": 2
+        },
+        {
+            "award_time": "2022.10",
+            "award_info": "校级 - 团体程序设计天梯赛校赛三等奖"
+        },
+        {
+            "award_info": "校级 - 团体程序设计天梯赛校赛二等奖",
+            "award_time": "2023.10",
+            "dataIndex": 3
+        },
+        {
+            "award_time": "2023.05.20",
+            "award_info": "校级 - 优秀大创结题证书 - 《基于贴片式多种传感器的人体健康检测系统》"
+        },
+        {
+            "award_time": "2024.06",
+            "award_info": "《基于物联网的民航智能环境监控系统》项目能力证书"
+        },
+        {
+            "award_time": "2023",
+            "award_info": "计算机三级网络技术证书"
+        },
+        {
+            "award_time": "2022",
+            "award_info": "C1驾驶证"
+        }
+    ],
+    "workExpList": [],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_name": "基于物联网的民航智能环境监控系统",
+            "project_role": "项目组长兼项目经理",
+            "project_time": "2024.06 - 2024.07",
+            "project_desc": "\n● 为提升乘客在飞机上的舒适度，本系统根据机舱内的光照强度，自动调整机舱内光源的亮度和颜色。通过使用正点原子 W601 开发板，采集实时光照强度数据，并依据采集到的光照强度，动态调整 RGB 光源的亮度和颜色，实现智能化光照管理。\n● 在可视化大屏上，以折线图的形式显示实时外界光线的变化情况，并以另一折线图展示机舱内光照的相应变化。通过将这两组折线图上下或左右对比，可以验证系统功能的正确性，确保机舱内光照能够根据外界光线强度进行精确调整。",
+            "project_content": "\n● 领导团队实现前端可视化（Vue），提升用户体验。\n● 设计并搭建数据库（MySQL），保障数据稳定性。\n● 指导传感器数据采集（C, MQTT, Python）。\n● 推动开发LSTM预测模型，优化温度监测。",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "使用C++实现RISC-V模拟器",
+            "project_role": "负责人",
+            "project_time": "2024.09 - 2025.01",
+            "project_desc": "使用 C++23 从零实现 RISC-V 模拟器，以循序渐进的方式，最终实现一个可以运行 xv6 操作系统的 RISC-V 模拟器。\n",
+            "project_content": "在项目中负责模型机的结构设计、指令集设计、阿里云服务器部署和前端界面展示。",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "基于WinPcap/Npcap的网络协议分析器",
+            "project_role": "负责人",
+            "project_time": "2024.03 - 2024.07",
+            "project_desc": "该项目实现了捕获、分析数据包的功能。支持以太网MAC协议、ARP协议、IP协议、TCP/UDP协议、HTTP协议、DNS协议。",
+            "project_content": "负责网络协议分析器的整体设计与实现。",
+            "dataIndex": 2
+        },
+        {
+            "project_time": "2022.12 - 至今",
+            "project_name": "个人爬虫/自动化项目经验",
+            "project_role": "负责人",
+            "project_desc": "1. 金融类网站股票/基金信息爬取。\n2. 自动化滑块验证码/图片验证码通过。\n3. 经过数据混淆的视频网站弹幕爬取。\n",
+            "project_content": "",
+            "dataIndex": 3
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": ""
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
